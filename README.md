@@ -17,7 +17,7 @@ Consolidated portfolio of my work completed during the Data Science Internship a
 
 ---
 
-## Week 1 — Employee Attrition Analysis
+## Week 1 - Employee Attrition Analysis
 
 Exploratory analysis and business understanding around employee attrition, based on the IBM HR Analytics dataset.
 
@@ -30,7 +30,7 @@ Exploratory analysis and business understanding around employee attrition, based
 
 🔗 Original submitted repo: [analystlab-week1-attrition-analysis](https://github.com/mairamesniang12/analystlab-week1-attrition-analysis)
 
-## Week 2 — Heart Disease Prediction: Data Preprocessing
+## Week 2 - Heart Disease Prediction: Data Preprocessing
 
 Data preprocessing for a heart disease prediction project.
 
@@ -43,7 +43,7 @@ Data preprocessing for a heart disease prediction project.
 
 🔗 Original submitted repo: [analystlab-week2-heart-disease-analysis](https://github.com/mairamesniang12/analystlab-week2-heart-disease-analysis)
 
-## Week 3 — Heart Disease Prediction: Advanced Analysis & Statistical Validation
+## Week 3 - Heart Disease Prediction: Advanced Analysis & Statistical Validation
 
 Deeper exploratory analysis, formal statistical hypothesis testing, feature engineering, and feature selection, building on the Week 2 cleaned dataset.
 
@@ -59,7 +59,7 @@ Deeper exploratory analysis, formal statistical hypothesis testing, feature engi
 
 🔗 Original submitted repo: [analystlab-week2-heart-disease-analysis/week3](https://github.com/mairamesniang12/analystlab-week2-heart-disease-analysis/tree/main/week3)
 
-## Week 4 — HealthConnect Experience Lab: ML Problem Definition
+## Week 4 - HealthConnect Experience Lab: ML Problem Definition
 
 First week of the HealthConnect Experience Lab, a shared multidisciplinary project. Defined the machine learning problem for predicting patient appointment no-shows.
 
@@ -69,7 +69,7 @@ First week of the HealthConnect Experience Lab, a shared multidisciplinary proje
 
 🔗 Original submitted repo: [analystlab-week2-heart-disease-analysis/week4](https://github.com/mairamesniang12/analystlab-week2-heart-disease-analysis/tree/main/week4)
 
-## Week 5 — HealthConnect Experience Lab: Baseline Model
+## Week 5 - HealthConnect Experience Lab: Baseline Model
 
 Data preparation, feature engineering, a leakage-aware train/test strategy, and a baseline no-show prediction model.
 
@@ -79,7 +79,7 @@ Data preparation, feature engineering, a leakage-aware train/test strategy, and 
 
 🔗 Original submitted repo: [analystlab-week2-heart-disease-analysis/week5](https://github.com/mairamesniang12/analystlab-week2-heart-disease-analysis/tree/main/week5)
 
-## Week 6 — HealthConnect Experience Lab: Model Improvement & Cross-Track Integration
+## Week 6 - HealthConnect Experience Lab: Model Improvement & Cross-Track Integration
 
 Error analysis on the Week 5 baseline, evidence-driven feature refinement, an improved candidate model, and a real, evidence-based cross-track integration with the Data Analytics track.
 
