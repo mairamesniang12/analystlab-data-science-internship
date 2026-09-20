@@ -99,6 +99,8 @@ Systematic testing of the Week 6 candidate model, evidence-based refinement, re-
 **Contents:**
 - `HealthConnect_Model_Testing_Refinement.ipynb` — 7 documented tests with pass/fail assessments, refinement attempts and re-tests
 - `Week7_Project_Summary.docx`
+- `Week7_CrossTrack_Testing_Evidence.docx`
+- `DataScience_Week7_Validation_Response.pdf`
 
 **Key outcomes:** validated performance on genuinely unseen patients (ROC-AUC ≈0.670); recommended operating threshold of 0.30–0.35 tuned to HealthConnect's cost asymmetry; 98.3% alignment between the model's high-risk predictions and Data Analytics' independently-defined high-risk segments; a documented, unresolved gender fairness gap.
 
