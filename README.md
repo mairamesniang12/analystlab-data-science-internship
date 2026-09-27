@@ -15,7 +15,7 @@ Consolidated portfolio of my work completed during the Data Science Internship a
 | Week 5 | HealthConnect Experience Lab — Data Preparation, Feature Engineering & Baseline Model | [week5/](./week5) |
 | Week 6 | HealthConnect Experience Lab — Model Improvement, Error Analysis & Validation | [week6/](./week6) |
 | Week 7 | HealthConnect Experience Lab — Model Testing, Error Analysis & Refinement | [week7/](./week7) |
-| Week _ | HealthConnect Experience Lab — Final Integration → Presentation | [week7/](./week7) |
+| Week 8 | HealthConnect Experience Lab — Final Integration → Presentation | [week7/](./week8) |
 
 ---
 
