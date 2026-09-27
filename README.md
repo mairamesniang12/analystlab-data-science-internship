@@ -15,6 +15,7 @@ Consolidated portfolio of my work completed during the Data Science Internship a
 | Week 5 | HealthConnect Experience Lab — Data Preparation, Feature Engineering & Baseline Model | [week5/](./week5) |
 | Week 6 | HealthConnect Experience Lab — Model Improvement, Error Analysis & Validation | [week6/](./week6) |
 | Week 7 | HealthConnect Experience Lab — Model Testing, Error Analysis & Refinement | [week7/](./week7) |
+| Week _ | HealthConnect Experience Lab — Final Integration → Presentation | [week7/](./week7) |
 
 ---
 
@@ -106,11 +107,32 @@ Systematic testing of the Week 6 candidate model, evidence-based refinement, re-
 
 🔗 Submitted repo (Week 7): [analystlab-data-science-internship/week7](https://github.com/mairamesniang12/analystlab-data-science-internship/tree/main/week7)
 
+## Week 8 — HealthConnect Experience Lab: Final Integration & Presentation
+
+Final synthesis of the Week 7 tested/refined model into a presentation-ready package. During ML Engineering
+handoff review, a data leakage feature (waiting_time_minutes) was identified, removed, and the model
+re-verified end-to-end on the real dataset, performance was virtually unchanged, except that the previously-reported
+statistically significant improvement over the Week 5 baseline no longer holds (bootstrap 95% CI now includes zero).
+This is reported transparently rather than carried forward from Week 7's more favourable framing.
+
+**Contents:**
+- `Week8_Final_Model_Documentation.docx` — final model package, readiness checklist, limitations
+- `Week8_HCPOD_Final_Integration.docx` — final 9-point cross-track integration record
+- `Week8_NonTechnical_Summary.docx` — plain-language summary for non-technical stakeholders
+- `HealthConnect_Model_Testing_RefinementHealthConnect_Model_Testing_Refinement_CORRECTED_Week8.ipynb`
+- `HealthConnect_MLEngineering_Handoff_Exchange.pdf`
+- `HealthConnect_Model_Specification.docx` — final model handoff communication
+
+**Key outcomes:** data leakage identified and fixed; lead-time blind spot and gender fairness gap both
+confirmed unaffected by the fix; baseline-improvement significance claim honestly revised.
+
+🔗 Submitted repo (Week 8): [analystlab-data-science-internship/week8](https://github.com/mairamesniang12/analystlab-data-science-internship/tree/main/week8)
+
 ---
 
 ## About
 
-Made by Mairame Samba Niang (Amy), Master's student at AIMS Sénégal (African Institute for Mathematical Sciences).
+Made by Mairame Samba Niang , Master's student at AIMS Sénégal (African Institute for Mathematical Sciences).
 
 GitHub: [@mairamesniang12](https://github.com/mairamesniang12)
 
